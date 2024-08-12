@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    /* display: flex; */
+    
+}
+
+#firstName i
+{
+
+    visibility: visible;
+    position: absolute;
+    top: 40px;
+    right: 10px;
+}
+.terms
+{
+    text-emphasis-color: blue;
+}
